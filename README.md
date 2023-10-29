@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikallow
 - 👀 I’m interested in Minecraft and creating small programs
-- 🌱 I’m currently learning c++; python
+- 🌱 I’m currently learning 🐍python; 🦀rust
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikallow&layout=compact&theme=synthwave)
 <!---
